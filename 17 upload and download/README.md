@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aatharv Mishra</h1>
+<h1 align="center">Hi 👋, I'm Guddu Mishra</h1>
 <h3 align="center">Full-Stack Developer | System Design Enthusiast | DSA Practitioner</h3>
 
 <p align="center">

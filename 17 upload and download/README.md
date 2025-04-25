@@ -26,8 +26,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aatharvmishra&show_icons=true&theme=radical" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aatharvmishra&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AatharvTechie&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AatharvTechie&theme=radical" width="45%" />
 </p>
 
 ---
@@ -35,11 +35,11 @@
 ### 🔍 Let's Connect
 
 - 💼 I'm actively seeking exciting development opportunities!
-- 📬 Reach me at: **your.email@example.com**
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com) *(optional)*
+- 📬 Reach me at: **aatharvmis2003@gmail.com**
+- 🌐 LinkedIn: https://www.linkedin.com/in/guddu-mishra-6a3886317/
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://https://www.linkedin.com/in/guddu-mishra-6a3886317/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
